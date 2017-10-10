@@ -1,0 +1,15 @@
+@import"~bulma/bulma.sass";
+
+
+
+
+$primaryColor: #121314;
+$secondaryColor: rgba(#878C86, 10%);
+
+html{
+    background: $primaryColor;
+}
+.columns{
+    margin-right: 0;
+}
+
